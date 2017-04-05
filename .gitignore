@@ -3,7 +3,7 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-#Python:
+# Python:
 *.py[cod]
 *.so
 *.egg
@@ -11,6 +11,6 @@ Desktop.ini
 dist
 build
 
-#My configurations:
+# My configurations:
 db.ini
 deploy_key-rsa
